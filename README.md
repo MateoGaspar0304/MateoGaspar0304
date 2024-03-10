@@ -21,7 +21,8 @@
 <p align="left">
 <a href="https://twitter.com/mathu__" target="blank">
 <img align="center" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" alt="mathu__" height="30" width="40"/>
-<a href="https://fb.com/mateo fernandez romero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateo fernandez romero" height="30" width="40" /></a>
+<a href="https://fb.com/mateo fernandez romero" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mateo fernandez romero" height="30" width="40" /></a>
 <a href="https://instagram.com/mathu_gaspar_04" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathu_gaspar_04" height="30" width="40" /></a>
 </p>
