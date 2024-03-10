@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Me llamo Mateo Fernandez Romero</h1>
 <h3 align="center">Me especializo en la creación y diseño de Paginas Web</h3>
+<h3 align="center">Soy Técnico en Informática Profesional y Personal y progresando como Analista de Sistema</h3>
 
 <p align="left"> <a href="https://twitter.com/mathu__" target="blank"><img src="https://img.shields.io/twitter/follow/mathu__?logo=twitter&style=for-the- badge" alt="mathu__" /></a> </p>
 
